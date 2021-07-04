@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
+adding line for rebase purpose
+
 ##Introduction
 
 I will use this repo as demo purpose to show hot to use git
