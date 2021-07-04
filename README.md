@@ -25,3 +25,6 @@ then add some contributes
 ## The End
 
 This end part I do not want to add to stagign area
+
+###
+2014 git copyright
