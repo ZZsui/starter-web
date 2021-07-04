@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 adding line for rebase purpose
 
+more changes from my features branch
+
 ##Introduction
 
 I will use this repo as demo purpose to show hot to use git
